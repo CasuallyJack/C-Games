@@ -1,2 +1,2 @@
 # CGames
-Small games I've made in C
+Small games I've made in C!

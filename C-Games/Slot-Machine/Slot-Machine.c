@@ -5,14 +5,16 @@
 // --- --- --- 
 //
 
+// C-Game by CasuallyJack, 2024
+
 #include <stdio.h>
 #include <stdlib.h>     // Include for system().
-#include <unistd.h>     // include for ()sleep.
+#include <unistd.h>     // include for sleep().
 #include <time.h>
 
 void playMachine()
 {
-    //Declare rewards array and randomNum. This will allow us to generate
+    // Declare rewards array and randomNum. This will allow us to generate
     // A random number that determines the value of the reward.
 
     char rewards[5][7] = {"Seven","Pear","Bar","Cherry","Lemon"};
